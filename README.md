@@ -1,7 +1,7 @@
 # Splendor Hotel Group Bookings Analysis
 
 ## Overview
-Welcome to the Splendor Hotel Group (SHG) Bookings Analysis project repository. In this project, I utilizes Power BI to analyze and visualize booking data for SHG, providing insights into booking trends, occupancy rates, and revenue performance.
+Welcome to the Splendor Hotel Group (SHG) Bookings Analysis project repository. In this project, I utilize Power BI to analyze and visualize booking data for SHG, providing insights into booking trends, occupancy rates, and revenue performance.
 
 ## Project Files
 - **SHG Booking.pbit**: Power BI template file containing the dashboard and reports for SHG bookings analysis.
@@ -21,11 +21,8 @@ To explore and interact with the SHG Bookings Analysis using Power BI:
 4. Refer to the accompanying `SHG Booking.pdf` document for a detailed narrative of insights derived from the analysis.
 
 ## Usage
-- Utilize Power BI to interactively explore and analyze SHG booking data, visualizing key metrics such as occupancy rates over time, booking channels performance, and revenue trends.
+- Utilize Power BI to explore and analyze SHG booking data interactively, visualizing key metrics such as occupancy rates over time, booking channels performance, and revenue trends.
 - Export reports from Power BI for sharing with stakeholders or incorporating into presentations and business reviews.
 
-## Contributors
-- Include your name and contact details if you welcome collaboration or contributions to the project.
-
 ## License
-Dataset was provided by @i_am_uchenna on Twitter.
+@iam_uchenna provided dataset on Twitter.
